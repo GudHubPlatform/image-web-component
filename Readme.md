@@ -2,15 +2,15 @@
 
 ## Basic example
 
-html`
+```html
 <image-component lazyload src="/assets/images/example.jpg" alt="Alternate" title="Title for image"></image-component>
-`
+```
 
 ## External download example
 
-html`
+```html
 <image-component data-src="https://gudhub.com/userdata/29883/968970.jpg" data-url="/assets/blog/developer-life-in-ukraine.jpg" alt="Alternate" title="Title for image"></image-component>
-`
+```
 
 ## Posssible attributes
 
