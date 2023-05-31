@@ -22,4 +22,3 @@
 * **title** - just add title text for generated <ing> tag.
 * **width** - just add width attribute for generated <img> tag. Can be useful for Google Page Speed optimization.
 * **height** - just add height attribute for generated <img> tag. Can be useful for Google Page Speed optimization.
-* **loading-padding** - Best to pass in %. Add empty space with gray background while image loading. Can be useful to fix CLS.
