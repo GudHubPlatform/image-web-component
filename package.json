@@ -1,0 +1,19 @@
+{
+  "name": "@gudhub/image-component",
+  "version": "1.0.1",
+  "description": "## Basic example",
+  "main": "image-component.webcomponent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GudHubPlatform/image-web-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GudHubPlatform/image-web-component/issues"
+  },
+  "homepage": "https://github.com/GudHubPlatform/image-web-component#readme"
+}
